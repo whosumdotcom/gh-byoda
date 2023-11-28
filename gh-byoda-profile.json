@@ -1,0 +1,32 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-11-28T20:13:28Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:byoda"
+    },
+    {
+      "Claim": "spout:byoda"
+    },
+    {
+      "Claim": "x:byoda_org"
+    },
+    {
+      "Claim": "med:stevenhessing"
+    },
+    {
+      "Claim": "yt:@dathes"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "f247dcc1fa3c38fb418385f0",
+    "Timestamp": "2023-11-28T20:32:39Z",
+    "Signature": "4cfd475051b03496d67e4abf1bc0ee15dc0b9b3296bb0c5d3e9099d31a71c309c93456b8a3cfa0e6e9f4824cd44f25f46bbec6885175b9b5c3205a6534a08d8d413878eeb8e1fd0fbf5e49016ae4399efcff1faafd8574d292ada71f37ca18cb067f2c50024ab1fa07965f32d5433a92dd59b2045adc81b5086f36f5e7ba33cbd69e2913ddc5481cd385169a54ca9088d2c5ca2f7d9e23cefbc494709eaa2ff8fc66bed4c2258f4aeea83afae3818bff35be7676543a6c34bec905ae28dd7bc4aa51d64d2103cefff5babf9749b496aa00eca0ca77047477f8b2185173ba80385e83f88aab2b324abaa9d06689bae1370b4a319c5486325b8cf9be17f61d2302"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "e9da4b6bf962067943321e6514610a04217630aca21214e3ef15cb22d43c8024",
+  "ContentToHash": "v1|gh:byoda,med:stevenhessing,spout:byoda,x:byoda_org,yt:@dathes|2023-11-28T20:13:28Z"
+}
