@@ -16,17 +16,20 @@
     },
     {
       "Claim": "yt:@dathes"
+    },
+    {
+      "Claim": "mdon:@byoda@mastodon.online"
     }
   ],
   "IdDisclaims": null,
   "Signature": {
     "Authority": "https://whosum.com",
     "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
-    "Nonce": "f247dcc1fa3c38fb418385f0",
-    "Timestamp": "2023-11-28T20:32:39Z",
-    "Signature": "4cfd475051b03496d67e4abf1bc0ee15dc0b9b3296bb0c5d3e9099d31a71c309c93456b8a3cfa0e6e9f4824cd44f25f46bbec6885175b9b5c3205a6534a08d8d413878eeb8e1fd0fbf5e49016ae4399efcff1faafd8574d292ada71f37ca18cb067f2c50024ab1fa07965f32d5433a92dd59b2045adc81b5086f36f5e7ba33cbd69e2913ddc5481cd385169a54ca9088d2c5ca2f7d9e23cefbc494709eaa2ff8fc66bed4c2258f4aeea83afae3818bff35be7676543a6c34bec905ae28dd7bc4aa51d64d2103cefff5babf9749b496aa00eca0ca77047477f8b2185173ba80385e83f88aab2b324abaa9d06689bae1370b4a319c5486325b8cf9be17f61d2302"
+    "Nonce": "7eb0d4e0c904b9283253d231",
+    "Timestamp": "2023-11-28T20:43:58Z",
+    "Signature": "2dcc7681e6cdab242ec4de79e53e515b7fc7cbbf3a04260fc8c6abf67bcd9fd8626fd07f2cb3ff3d172e159e50ad61d4ea7a9662e61c6b2597688dbf36cb7c49902d0330da199ef43024db537287ee315dd40713cce3fdc53280fefa97b23db5180a6eb2d13c06a6d66ba2badf3c87ca6c27b1ee15fd3eaeb42c4cdc2570d222604cfee0d338e9565e39c3251659ad0fff8939ae73d200d58bc8d66cfe932514c27f242a309dc47a693d70a1a648fc065c0909a74801cdf3c93e17384621864c7c956447afd6d79367401a383eb5e86d160491c580610bfb51002124e5feeeff93358c377654766244bd4ece1baf3af376d1fb792b0235a1db633524478c217b"
   },
   "AgreedToTerms": true,
-  "ContentSha256": "e9da4b6bf962067943321e6514610a04217630aca21214e3ef15cb22d43c8024",
-  "ContentToHash": "v1|gh:byoda,med:stevenhessing,spout:byoda,x:byoda_org,yt:@dathes|2023-11-28T20:13:28Z"
+  "ContentSha256": "ada0eeaccef912051bc21a26729d6eea1b69c4e6b94812414b8fb818e7b53313",
+  "ContentToHash": "v1|gh:byoda,mdon:@byoda@mastodon.online,med:stevenhessing,spout:byoda,x:byoda_org,yt:@dathes|2023-11-28T20:13:28Z"
 }
